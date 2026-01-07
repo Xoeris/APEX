@@ -32,19 +32,6 @@ It is designed for **Android developers, power users, reverse engineers, securit
 
 ---
 
-## Technology Stack
-
-| Layer | Technology |
-|------|-----------|
-| Desktop Runtime | Electron |
-| UI Framework | React |
-| Build Tooling | Vite |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| Binary Orchestration | Node.js |
-
----
-
 ## Integrated Binaries & Tooling
 
 | Tool | Purpose | Source |
