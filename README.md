@@ -1,4 +1,4 @@
-# APEX ,  Android Platform Entity Extension
+# APEX (Android Platform Entity Extension)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
