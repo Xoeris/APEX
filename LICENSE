@@ -1,21 +1,143 @@
-MIT License
+APEX Installer License Agreement
 
-Copyright (c) 2026 Xoeris
+Android Platform Entity Extension (APEX)
+Copyright © 2020–2026 Xoeris. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT NOTICE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE INSTALLING, COPYING, OR USING THIS SOFTWARE.
+BY CLICKING “AGREE”, “INSTALL”, OR BY OTHERWISE INSTALLING OR USING APEX, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. DEFINITIONS
+
+For the purposes of this License Agreement:
+
+“Software” refers to APEX (Android Platform Entity Extension), including its executable files, user interface, internal logic, encrypted resources, bundled binaries, configuration files, documentation, and any updates or patches.
+
+“Licensor” refers to Xoeris, the creator and owner of APEX.
+
+“User” or “You” refers to any individual or legal entity installing or using the Software.
+
+“Third-Party Tools” refers to external open-source or proprietary utilities bundled or orchestrated by APEX, each governed by its own license.
+
+“Installer” refers to the distribution package used to install the Software on a desktop operating system.
+
+2. LICENSE GRANT
+
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants You a limited, non-exclusive, non-transferable, revocable license to install and use the Software solely for lawful purposes on devices that You own or control.
+
+This License permits:
+
+Installation and execution of the Software on supported desktop operating systems
+
+Personal, educational, research, or professional use of the Software’s features
+
+Interaction with Android devices using supported platform tools
+
+This License does not grant ownership of the Software or any of its components.
+
+3. LICENSE RESTRICTIONS
+
+You may not, directly or indirectly:
+
+Copy, redistribute, sell, sublicense, rent, lease, or commercially exploit the Software or Installer.
+
+Reverse engineer, decompile, disassemble, decrypt, or otherwise attempt to derive the source code, internal logic, encryption mechanisms, or proprietary formats of the Software, except where explicitly permitted by applicable law.
+
+Extract, reuse, redistribute, or repurpose bundled binaries, tools, or runtime components outside of the Software environment.
+
+Modify, tamper with, or bypass any technical protection, integrity checks, or security mechanisms implemented by the Software.
+
+Use the Software to perform unlawful, unethical, or unauthorized activities on devices not owned by You or without proper authorization.
+
+Remove, alter, or obscure any copyright, trademark, or attribution notices.
+
+4. THIRD-PARTY SOFTWARE AND OPEN-SOURCE COMPONENTS
+
+The Software may aggregate, orchestrate, or interface with Third-Party Tools that are governed by their respective licenses.
+Ownership of such Third-Party Tools remains with their respective authors.
+
+This License applies only to the Software developed by Xoeris and does not supersede or replace the licenses of Third-Party Tools.
+Users are responsible for complying with all applicable third-party licenses.
+
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software, Installer, branding, architecture, proprietary formats, and internal mechanisms are the intellectual property of the Licensor and are protected by copyright and applicable intellectual property laws.
+
+No rights are granted except those expressly stated in this Agreement.
+
+6. UPDATES AND MODIFICATIONS
+
+The Licensor may, at its discretion:
+
+Provide updates, patches, or enhancements
+
+Modify, suspend, or discontinue features
+
+Change system requirements or behavior
+
+Updates may be applied automatically or manually and are governed by this License unless otherwise stated.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO:
+
+MERCHANTABILITY
+
+FITNESS FOR A PARTICULAR PURPOSE
+
+NON-INFRINGEMENT
+
+ACCURACY OR RELIABILITY
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR COMPATIBLE WITH ALL SYSTEMS OR DEVICES.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+DATA LOSS
+
+DEVICE DAMAGE
+
+SYSTEM FAILURE
+
+UNAUTHORIZED DEVICE MODIFICATION
+
+LOSS OF PROFITS OR BUSINESS INTERRUPTION
+
+EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. USER RESPONSIBILITY AND DEVICE RISK
+
+You acknowledge that the Software interacts with low-level Android system components.
+Improper use may result in data loss, device malfunction, warranty voiding, or permanent damage.
+
+You assume full responsibility for:
+
+Actions performed using the Software
+
+Devices connected to the Software
+
+Compliance with local laws and device manufacturer policies
+
+10. TERMINATION
+
+This License is effective until terminated.
+
+The Licensor may terminate this License immediately if You violate any term of this Agreement.
+Upon termination, You must cease all use of the Software and destroy all copies in Your possession.
+
+11. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with applicable laws, without regard to conflict-of-law principles.
+
+12. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between You and the Licensor regarding the Software and supersedes all prior agreements or understandings.
+
+If any provision of this Agreement is held invalid, the remaining provisions shall remain in full force and effect.
