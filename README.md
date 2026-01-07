@@ -1,3 +1,7 @@
+<p align="left">
+  <img width="550" alt="Xoeris - APEX Mockup (Rounded)" src="https://github.com/user-attachments/assets/1d518622-6eef-4f57-b441-e80a0fd8aa8a" />
+</p>
+
 # APEX (Android Platform Entity Extension)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
