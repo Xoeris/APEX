@@ -5,38 +5,52 @@
 # APEX (Android Platform Entity Extension)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
-
 ![Architecture](https://img.shields.io/badge/architecture-x64%20%7C%20arm64-success)
-
 ![Status](https://img.shields.io/badge/status-Active%20Development-green)
-
-![License](https://img.shields.io/badge/license-Mixed%20Open--Source-yellow)
+![License](https://img.shields.io/badge/license-Mixed%20Licensing-yellow)
 
 ---
 
 ## Overview
 
-**APEX (Android Platform Entity Extension)** is an advanced, desktop-native Android engineering suite designed to streamline and modernize complex Android platform workflows.
+**APEX (Android Platform Entity Extension)** is a desktop-grade Android engineering control system designed to manage, analyze, and manipulate Android devices at a system level with precision, safety, and clarity.
 
-APEX aggregates essential Android development, reverse-engineering, and firmware-level tools into a single, structured, and intuitive graphical environment, eliminating fragmented toolchains and excessive command-line overhead.
+APEX provides a unified environment where complex Android platform operations—traditionally performed through fragmented utilities and manual command execution—are transformed into structured, deterministic workflows. Every operation is executed through a controlled pipeline that prioritizes transparency, reliability, and full user awareness.
 
-It is designed for **Android developers, power users, reverse engineers, security researchers, and custom ROM builders**.
+APEX is built for **Android engineers, power users, reverse engineers, security researchers, and custom ROM developers** who require professional-grade control over Android system internals.
+
+---
+
+## Design Philosophy
+
+APEX is not a loose collection of scripts or utilities.
+
+It is engineered as a **centralized orchestration layer** that:
+- Maintains full visibility over device state and operations
+- Eliminates ambiguity in system-level workflows
+- Reduces operational risk during low-level modifications
+- Enables repeatable and traceable engineering actions
+
+The platform emphasizes deterministic execution, modular workflows, and desktop-class performance under sustained workloads.
 
 ---
 
 ## Key Capabilities
 
-- Unified ADB & Fastboot control center  
-- ROM cooking and firmware rebuilding  
-- Boot / DTBO / AVB image manipulation  
-- APK analysis, decompilation, and rebuilding  
+- Unified device communication and state management  
+- Centralized ADB & Fastboot control interface  
+- ROM cooking and firmware reconstruction  
+- Boot / DTBO / AVB image analysis and modification  
+- APK inspection, rebuilding, and structure analysis  
 - Real-time device screen mirroring  
 - Modular, task-oriented workflow navigation  
-- Desktop-grade performance and stability  
+- Stable performance during high-intensity operations  
 
 ---
 
 ## Integrated Binaries & Tooling
+
+APEX internally orchestrates a curated set of Android platform utilities to deliver a seamless engineering experience.
 
 | Tool | Purpose | Source |
 |-----|--------|--------|
@@ -48,13 +62,13 @@ It is designed for **Android developers, power users, reverse engineers, securit
 | jadx | DEX → Java decompiler | https://github.com/skylot/jadx |
 | OpenJDK | Java runtime | https://openjdk.org |
 | lz4 | Compression | https://github.com/lz4/lz4 |
-| magiskboot | Boot patching | https://topjohnwu.github.io/Magisk |
-| mkdtboimg | DTBO tool | AOSP |
+| magiskboot | Boot image patching | https://topjohnwu.github.io/Magisk |
+| mkdtboimg | DTBO tooling | AOSP |
 | platform-tools | adb / fastboot | https://developer.android.com/tools/releases/platform-tools |
-| resize2fs | Filesystem resize | e2fsprogs |
+| resize2fs | Filesystem resizing | e2fsprogs |
 | scrcpy | Screen mirroring | https://github.com/Genymobile/scrcpy |
 | smali | DEX assembler | https://github.com/JesusFreke/smali |
-| sqlite | Database tool | https://sqlite.org |
+| sqlite | Embedded database | https://sqlite.org |
 | tar | Archive tool | GNU Project |
 | zipalign | APK optimization | Android SDK |
 | zlib | Compression | https://zlib.net |
@@ -64,32 +78,25 @@ It is designed for **Android developers, power users, reverse engineers, securit
 
 ## First-Run Notes
 
-- USB debugging must be enabled on the device
-- Device authorization via ADB is required
-- Some operations require unlocked bootloader
-- EDL mode usage is device-specific
-
----
-
-## Open-Source Philosophy
-
-APEX does not replace existing tools.
-
-It aggregates, standardizes, and orchestrates open-source Android tooling into a unified desktop experience, while preserving attribution, licensing, and transparency.
+- USB debugging must be enabled on the device  
+- Device authorization via ADB is required  
+- Some operations require an unlocked bootloader  
+- EDL mode support is device-specific  
 
 ---
 
 ## Installation
 
 ### Windows
+
 Run `APEX-Setup.exe` as Administrator and follow the installer instructions.
 
 ---
 
 ## Disclaimer
 
-APEX is an advanced system-level toolkit.  
-Improper usage may permanently damage devices.
+APEX is an advanced system-level engineering platform.  
+Improper usage may permanently damage devices, partitions, or data.
 
 **Use at your own risk.**
 
@@ -97,12 +104,12 @@ Improper usage may permanently damage devices.
 
 ## License
 
-APEX itself is distributed under a custom license.
-Integrated third-party tools remain under their original licenses.
+APEX itself is distributed under a custom license.  
+Integrated third-party components remain under their respective licenses.
 
-Refer to /licenses for detailed information.
+Refer to `/licenses` for detailed legal information.
 
-Copyright © 2020-2026 Xoeris
+Copyright © 2020–2026 Xoeris
 
 ---
 
@@ -130,4 +137,3 @@ APEX
 ├── logs
 ├── temp
 └── config
-```
