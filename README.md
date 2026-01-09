@@ -110,30 +110,3 @@ Integrated third-party components remain under their respective licenses.
 Refer to `/licenses` for detailed legal information.
 
 Copyright © 2020–2026 Xoeris
-
----
-
-## Directory Structure
-
-<details>
-<summary><strong>Directory Structure</strong></summary>
-
-```text
-APEX
-├── app
-│   ├── modules
-│   │   ├── adb
-│   │   ├── fastboot
-│   │   ├── rom-kitchen
-│   │   └── edl
-│   └── ui
-│
-├── binaries
-│   ├── platform-tools
-│   ├── boot-tools
-│   ├── apk-tools
-│   └── compression
-│
-├── logs
-├── temp
-└── config
