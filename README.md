@@ -1,5 +1,8 @@
 # APEX
 
+<img width="1920" height="1080" alt="Xoeris - APEX Mockup" src="https://github.com/user-attachments/assets/b1c78cd6-3e40-464a-8119-82955447a64e" />
+
+
 **A cross-platform Android firmware toolkit** — unpack, browse, modify, rebuild and flash Android firmware from one desktop app, without WSL or a pile of command-line tools.
 
 Built with **.NET 10**. Runs on **Windows, Linux and macOS**.
