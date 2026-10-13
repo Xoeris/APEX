@@ -1,11 +1,8 @@
 # APEX
 
-<img width="1920" height="1080" alt="Xoeris - APEX Mockup" src="https://github.com/user-attachments/assets/b1c78cd6-3e40-464a-8119-82955447a64e" />
-
-
 **A cross-platform Android firmware toolkit** — unpack, browse, modify, rebuild and flash Android firmware from one desktop app, without WSL or a pile of command-line tools.
 
-Built with **.NET 10**. Runs on **Windows, Linux and macOS**.
+Built on **XIME** (Xoeris Interactive Modular Ecosystem). Runs on **Windows, Linux and macOS**.
 
 > Status: `1.0.0` — active development. Closed source.
 
@@ -92,7 +89,7 @@ The menu bar also gives you project management (New / Rename / Duplicate / Delet
 Because the readers are C#, Windows needs no `simg2img`, `lpunpack` or WSL to extract a ROM. Output was verified against CRB's own extraction (14,000+ files, no content differences).
 
 ### Settings
-Auto-scroll log, strip ANSI codes, Python executable path, **Maximize CPU Threads**, **Dedicated RAM Allocation**, **GPU hardware acceleration**, Developer Mode, **license & activation** (FREE vs PRO with hardware ID).
+Auto-scroll log, strip ANSI codes, Python executable path, **Maximize CPU Threads**, **Dedicated RAM Allocation**, **GPU hardware acceleration** **license & activation** (FREE vs PRO with hardware ID).
 
 ### Android app (Xoeris APEX for Android)
 Package `com.xoeris.android.app.apex` · minSdk 24 · targetSdk 36 · ABIs `armeabi-v7a`, `arm64-v8a`, `x86`, `x86_64` · 14 translations. Python (Chaquopy) core plus a native terminal.
